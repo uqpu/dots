@@ -1,0 +1,14 @@
+# blacklist
+/*
+.cache
+.cert
+.config
+.gnupg
+.nv
+.ssh
+.pki
+
+# whitelist
+!.bashrc
+!.bashrc.ubuntu.default
+!.vimrc
